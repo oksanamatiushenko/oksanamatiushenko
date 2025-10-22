@@ -41,4 +41,4 @@ Backend & Tools:
 ---
 
 ## 📊 GitHub Stats
-![Oksanas GitHub stats](https://github-readme-stats.vercel.app/api?username=oksanamerchanskaya&show_icons=true&theme=radical)
+![Oksanas GitHub stats](https://github-readme-stats.vercel.app/api?username=oksanamatiushenko&show_icons=true&theme=radical)
