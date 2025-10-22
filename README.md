@@ -34,7 +34,7 @@ Backend & Tools:
 ---
 
 ## 📫 Kontakt
-[![LinkedIn](./linkedin.svg)]([https://www.linkedin.com/in/deinprofil]([https://www.linkedin.com/in/oksana-matiushenko/)](https://www.linkedin.com/in/oksana-matiushenko/))  [![Email](./gmail.svg)](mailto:ksuzzxx3@gmail.com)  [![GitHub](./github.svg)]([https://github.com/oksanamerchanskaya](https://github.com/oksanamatiushenko)  
+[![LinkedIn](./linkedin.svg)](https://www.linkedin.com/in/oksana-matiushenko/))  [![Email](./gmail.svg)](mailto:ksuzzxx3@gmail.com)  [![GitHub](./github.svg)](https://github.com/oksanamatiushenko)  
 
 ---
 
