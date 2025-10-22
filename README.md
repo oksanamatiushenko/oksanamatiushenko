@@ -13,13 +13,13 @@ Frontend:
 ![HTML5](./html5.svg) 
 ![CSS3](./css.svg) 
 ![SASS](sass.svg) 
-![JavaScript](./js.svg) 
+![JavaScript](./js.gif) 
 ![React](./react.gif) 
 ![Redux](./redux.svg) 
 ![TypeScript](./typescript.svg) 
 
 Backend & Tools:  
-![Node.js](./node.js.svg) 
+![Node.js](./nodejs.svg) 
 ![MySQL](./mysql.svg) 
 ![Git](./icons8-git.svg) 
 ![Linux](./linux.gif) 
