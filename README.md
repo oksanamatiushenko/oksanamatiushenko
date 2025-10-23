@@ -1,4 +1,4 @@
-# 👋 Hallo, ich bin Oksana
+# ![Laptop](./laptop.gif)  Hallo, ich bin Oksana
 
 ✨ Frontend-Entwicklerin | Node.js | React | JavaScript | Webentwicklung
 
