@@ -1,6 +1,6 @@
 # Hallo, ich bin Oksana
 
-## ✨ Frontend-Entwicklerin | Node.js | React | JavaScript | Webentwicklung ![Laptop](./laptop.gif)
+## ![Laptop](./laptop.gif)Frontend-Entwicklerin | Node.js | React | JavaScript | Webentwicklung ![Laptop](./laptop.gif)✨
 
 Quereinsteigerin in der Webentwicklung mit juristischem Hintergrund, analytischem Denken und Leidenschaft für moderne Webtechnologien.  
 Strukturierte, detailorientierte und lösungsorientierte Arbeitsweise, Erfahrung im Umgang mit komplexen Informationen.  
