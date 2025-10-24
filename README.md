@@ -1,4 +1,4 @@
-#                                      👋Hallo, ich bin Oksana
+# <h1 align="center">👋Hallo, ich bin Oksana</h1>
 
 ### ✨Frontend-Entwicklerin | Node.js | React | JavaScript | Webentwicklung ![Laptop](./laptop.gif)
 
